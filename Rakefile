@@ -3,6 +3,9 @@ require 'rake'
 require 'yaml'
 require 'time'
 
+YAML::ENGINE.yamler = 'psych'
+YAML.load_file('_config.yml')
+
 SOURCE = "."
 CONFIG = {
   'version' => "0.2.13",
