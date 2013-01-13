@@ -2,8 +2,8 @@
 layout: post
 title: "Test je applicaties"
 description: ""
-category:
-tags: [tech, ruby]
+category: 'arrrrcamp'
+tags: ['tech', 'ruby', 'rails', 'arrrrcamp']
 ---
 {% include JB/setup %}
 

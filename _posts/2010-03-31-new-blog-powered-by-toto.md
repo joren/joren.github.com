@@ -2,8 +2,8 @@
 layout: post
 title: "new blog powered by toto"
 description: ""
-category:
-tags: [tech, ruby]
+category: 'tech'
+tags: ['tech', 'ruby']
 ---
 {% include JB/setup %}
 
@@ -12,7 +12,7 @@ Back in the old days I started blogging with [Geeklog](http://www.geeklog.net/),
 
 When I started with Rails, first I wanted to build my own system, customize it to my needs. But after the first edition of [ArrrrCamp](http://arrrrcamp.be) the guys of [Gorilla Webdesign](http://gorilla-webdesign.be) could convince me to try [Radiant](http://radiantcms.org/).
 ~
-I liked the system, but as I wanted to post more media, the flow was to slow. For this I started using [Tumblr](http://jorendegroof.be) where I can dump the media I collect on the internet.
+I liked the system, but as I wanted to post more media, the flow was to slow. For this I started using ['tumblr'](http://jorendegroof.be) where I can dump the media I collect on the internet.
 
 Still, my radiant blog, which I use mainly for technological stuff was to slow, I needed something smaller, easier and I wanted to be able to write posts without login in, saving the post when it wasn't ready, continue typing offline on the train. Which isn't possible with Radiant or any other online system.
 

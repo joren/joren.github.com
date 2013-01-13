@@ -3,8 +3,8 @@
 layout: post
 title: "Wider Vimeo Chrome Plugin"
 description: ""
-category:
-tags: [tech]
+category: 'tech'
+tags: ['tech']
 ---
 {% include JB/setup %}
 

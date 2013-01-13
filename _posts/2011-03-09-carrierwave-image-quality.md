@@ -2,8 +2,8 @@
 layout: post
 title: "Carrierwave image quality"
 description: ""
-category:
-tags: [tech, ruby]
+category: 'ruby'
+tags: ['tech', 'ruby']
 ---
 {% include JB/setup %}
 

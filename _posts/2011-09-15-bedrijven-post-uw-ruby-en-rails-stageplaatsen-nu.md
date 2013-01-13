@@ -2,8 +2,8 @@
 layout: post
 title: "Bedrijven post uw ruby en rails stageplaatsen nu!"
 description: ""
-category:
-tags: [tech, rails, ruby]
+category: 'tech'
+tags: ['tech', 'rails', 'ruby']
 ---
 {% include JB/setup %}
 

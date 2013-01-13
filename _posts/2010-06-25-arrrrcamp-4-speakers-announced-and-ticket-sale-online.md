@@ -2,8 +2,8 @@
 layout: post
 title: "ArrrrCamp #4, Speakers announced and ticket sales online"
 description: ""
-category:
-tags: [tech, ruby, rails, arrrrcamp]
+category: 'arrrrcamp'
+tags: ['tech', 'ruby', 'rails', 'arrrrcamp']
 ---
 {% include JB/setup %}
 

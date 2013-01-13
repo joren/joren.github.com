@@ -2,8 +2,8 @@
 layout: post
 title: "irc and bitlebee"
 description: ""
-category:
-tags: [tech, irc]
+category: 'tech'
+tags: ['tech', 'irc']
 ---
 {% include JB/setup %}
 

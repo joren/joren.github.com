@@ -2,8 +2,8 @@
 layout: post
 title: "MMS op de iPhone 2G"
 description: ""
-category:
-tags: [tech, ios]
+category: 'tech'
+tags: ['tech', 'ios']
 ---
 {% include JB/setup %}
 
