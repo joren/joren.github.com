@@ -2,8 +2,8 @@
 layout: post
 title: "Mobile detect"
 description: ""
-category:
-tags: []
+category: 'arrrrcamp'
+tags: ['tech', 'ruby', 'rails', 'arrrrcamp']
 ---
 {% include JB/setup %}
 
